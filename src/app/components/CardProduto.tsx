@@ -1,10 +1,5 @@
 import Image from "next/image";
 import { FaTruck } from "react-icons/fa";
-import { FiShoppingCart } from "react-icons/fi";
-import { TbShoppingBagPlus } from "react-icons/tb";
-import { CiCirclePlus } from "react-icons/ci";
-import { FaPlus } from "react-icons/fa6";
-import { GoPlus } from "react-icons/go";
 import { LuPlus } from "react-icons/lu";
 const CardProduto = () => {
   return (
