@@ -54,4 +54,4 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 - Conhecimento básico de React
 
-- Noções básicas de TailwindCSS
+- Noções básicas de TailwindCSSf
