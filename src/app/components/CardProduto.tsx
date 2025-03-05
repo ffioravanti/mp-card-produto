@@ -79,7 +79,7 @@ const CardProduto = () => {
         <div className="flex w-full justify-between items-center sm:flex-row">
           <data
             value="89900"
-            className="text-md text-3xl sm:text-3xl text-sky-500 font-bold"
+            className="text-md text-2xl sm:text-3xl text-sky-500 font-bold"
             itemProp="price"
           >
             R$ 899,00
